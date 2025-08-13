@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="home.css">
+    <title>HomePage</title>
+</head>
+<body>
+    <h2>Home</h2>
+    <a href ="homePage.html">Home</a>
+    <a href="education.html">Education</a>
+    <a href="experience.html">Experience</a>
+    <div class="container">
+        <h1>My_BioData</h1>
+        <h3>B.Mahidhar Reddy</h3>
+        <img src="img/myPic2.jpg" alt="Mahidhar" width="200" height="200">
+        <p class="t1"> I am excited to start my journey with Pixalive as a React Developer. With a strong enthusiasm for learning 
+            and building user-friendly applications, I am eager to develop my skills in React and contribute to creating innovative solutions. 
+            I am passionate about problem-solving and committed to growing as a developer while helping the team deliver impactful products</p>
+         <br>
+            <p class ="t2">Currently, I am also enhancing my skills in React.js to expand my full-stack 
+            development capabilities and work on modern web applications.</p>   
+    </div>
+</body>
+</html> 

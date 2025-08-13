@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio - Experiences</title>
+</head>
+<body>
+    <h1>My Experiences</h1>
+    <p>Over the past 6 months i did intership on Rakesh solutions private limited in hyderabad.</p>
+    <p>I have experience working with clients from various industries, ensuring that each project is tailored to meet their unique needs. 
+       This has helped me develop strong problem-solving skills and a customer-focused mindset.</p>
+
+    <h2>Skills (Unordered List)</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React and Angular</li>
+        <li>Node.js and Express</li>
+        <li>Java and Python</li>
+    </ul>
+
+    <h2>Projects (Ordered List)</h2>
+    <ol>
+        <li>E-commerce Website</li>
+        <li>Portfolio Website</li>
+        <li>Company Intranet Portal</li>
+    </ol>
+</body>
+</html>
